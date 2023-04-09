@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9f52b1e3.css",
+    "main.js": "/static/js/main.e46640e3.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/my_img.jpg": "/static/media/my_img.5b42c77b4c8d80b5ca34.jpg",
+    "static/media/ar_logo.png": "/static/media/ar_logo.e90bc39726a08305fff4.png",
+    "index.html": "/index.html",
+    "main.9f52b1e3.css.map": "/static/css/main.9f52b1e3.css.map",
+    "main.e46640e3.js.map": "/static/js/main.e46640e3.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f52b1e3.css",
+    "static/js/main.e46640e3.js"
+  ]
+}
